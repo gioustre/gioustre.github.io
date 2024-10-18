@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gioustre.github.io/sitemap.txt.gz
+Sitemap: https://gioustre.github.io/app/sitemap.txt.gz
+Sitemap: https://gioustre.github.io/assets/sitemap.txt.gz
+Sitemap: https://gioustre.github.io/css/sitemap.txt.gz
+Sitemap: https://gioustre.github.io/includes/sitemap.txt.gz
+Sitemap: https://gioustre.github.io/item/sitemap.txt.gz
+Sitemap: https://gioustre.github.io/src/sitemap.txt.gz
